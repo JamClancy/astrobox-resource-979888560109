@@ -5,7 +5,7 @@
     "name": "涡轮赛段",
     "description": "涡轮赛段是一款为小米手环 10 Pro 制作的像素拉力赛车表盘。奶白宽体、橙色车顶和蓝灰点阵底板搭配阶梯切角的大号时间数字，保留复古赛车仪表的风格。\n时间随手环切换 12/24 小时制，显示月日、星期、十段电量条与步数。电量和步数读取手环系统数据，缺失时显示横线。当前版本为亮屏表盘，未提供息屏显示（AOD）。",
     "preview": [
-      "media/preview-01-daily.png",
+      "media/preview-06-arrival.webp",
       "media/preview-03-midnight.png",
       "media/preview-04-missing-data.png",
       "media/preview-05-arrival.png"
